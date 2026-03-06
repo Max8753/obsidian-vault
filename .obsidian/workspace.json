@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "22cf4bfbba7f85b4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Dashboard/Java_Dashboard.md.md",
+                "file": "00_Dashboard/Java_Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Java_Dashboard.md"
+              "title": "Java_Dashboard"
             }
           }
         ]
@@ -166,14 +166,23 @@
               "icon": "lucide-list",
               "title": "Структура HTTP"
             }
+          },
+          {
+            "id": "eb1c9720f14dc7fd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,18 +200,37 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "22cf4bfbba7f85b4",
   "lastOpenFiles": [
-    "00_Dashboard/Java_Dashboard.md.md",
-    "00_Dashboard/Java_Roadmap.md.md",
-    "02_OOP/OOP.md.md",
-    "Template 2/java_bug.md.md",
-    "Template 1/Java_concept.md.md",
-    "java_snippet.md.md",
+    "99_Archive/README.md",
+    "19_Architecture_Diagrams/README.md",
+    "18_Projects/README.md",
+    "17_Interview_Questions/README.md",
+    "16_Code_Snippets/README.md",
+    "15_Performance/README.md",
+    "14_Debugging_Bugs/README.md",
+    "13_Testing/README.md",
+    "12_APIs_Rest/README.md",
+    "11_Spring_Framework/README.md",
+    "10_Databases_SQL/README.md",
+    "09_System_Design/README.md",
+    "08_Design_Patterns/README.md",
+    "07_Data_Structures/README.md",
+    "06_Algorithns/README.md",
+    "05_Multithreading/README.md",
+    "04_Exceptions/README.md",
+    "03_Collection/README.md",
+    "01_Java_Basics/README.md",
+    "01_Java_Basics/README 1.md",
+    "00_Dashboard/Java_Dashboard.md",
+    "Template 1/Java_concept.md",
+    "Template 2/java_bug.md",
+    "00_Dashboard/Java_Roadmap.md",
+    "02_OOP/OOP.md",
+    "java_snippet.md",
     "Template 3",
     "Template 2",
     "Template 1",
-    "Dateienformat/HTTP.md",
     "99_Archive",
     "19_Architecture_Diagrams",
     "18_Projects",
@@ -210,13 +238,6 @@
     "16_Code_Snippets",
     "15_Performance",
     "14_Debugging_Bugs",
-    "Без названия.canvas",
-    "Dateienformat/JSON.md",
-    "JSON.md",
-    "Dateienformat/XML.md",
-    "HTTP.md",
-    "XML.md",
-    "2026-03-05.md",
-    "Добро пожаловать.md"
+    "Без названия.canvas"
   ]
 }

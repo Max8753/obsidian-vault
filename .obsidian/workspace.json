@@ -200,8 +200,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "22cf4bfbba7f85b4",
+  "active": "eb1c9720f14dc7fd",
   "lastOpenFiles": [
+    "Python File (neu).py",
+    "Textdokument (neu).txt",
     "99_Archive/README.md",
     "19_Architecture_Diagrams/README.md",
     "18_Projects/README.md",
@@ -227,7 +229,6 @@
     "Template 2/java_bug.md",
     "00_Dashboard/Java_Roadmap.md",
     "02_OOP/OOP.md",
-    "java_snippet.md",
     "Template 3",
     "Template 2",
     "Template 1",
@@ -237,7 +238,6 @@
     "17_Interview_Questions",
     "16_Code_Snippets",
     "15_Performance",
-    "14_Debugging_Bugs",
     "Без названия.canvas"
   ]
 }

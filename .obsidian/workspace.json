@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22cf4bfbba7f85b4",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -200,8 +200,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb1c9720f14dc7fd",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00_Dashboard/Java_Dashboard.md",
     "Python File (neu).py",
     "Textdokument (neu).txt",
     "99_Archive/README.md",
@@ -224,7 +225,6 @@
     "03_Collection/README.md",
     "01_Java_Basics/README.md",
     "01_Java_Basics/README 1.md",
-    "00_Dashboard/Java_Dashboard.md",
     "Template 1/Java_concept.md",
     "Template 2/java_bug.md",
     "00_Dashboard/Java_Roadmap.md",
@@ -237,7 +237,6 @@
     "18_Projects",
     "17_Interview_Questions",
     "16_Code_Snippets",
-    "15_Performance",
     "Без названия.canvas"
   ]
 }

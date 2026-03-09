@@ -6,6 +6,18 @@
 		1. ...
 		2. ...
 2. Benutzer
+	1. Attribute
+		1. username
+		2. pw
+		3. rolle
+	2. Methoden
+		1. registrieren
+		2. anmelden
 3. User
 4. Admin
-5. 
+5. Verifikator
+	1. Attribute
+	2. Methoden
+		1. prüfung
+		2. begrüßung
+6. 

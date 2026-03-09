@@ -13,6 +13,7 @@ Models & Hauptklassen
 		3. pass
 		4. rolle
 	2. Methoden
+	3. Konstruktor
 		1. getter & setter
 3. UserPool (Wer ist angemeldet? Aus technischer Sicht, keine View)
 4. Database Connection

@@ -13,11 +13,11 @@
 	2. Methoden
 		1. registrieren
 		2. anmelden
+		3. anfragen
+		4. antwort_kriegen
 3. User
 	1. Attribute
 	2. Methoden
-		1. anfragen
-		2. 
 4. Admin
 	1. Attribute
 	2. Methoden

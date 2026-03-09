@@ -22,8 +22,10 @@ Models & Hauptklassen
 Hilfsklassen:
 1. SessionContext/UserPool(Welcher User ist mit welcher Rolle angemeldet) (eventuell Löschen)
 	1. Attribute
-		1. USER
-		2. in
+		1. user
+		2. instance
+	2. Methoden
+		1. pruefen_ob_admin
 2. SecurityUtil (Hashing, Registrieren und Überprüfen von Login)
 
 Controller:
@@ -33,6 +35,9 @@ Controller:
 
 Views:
 1. LoginView (Formulare für Anmelden und Registrieren)
+	1. Attribute
+		1. JTextField
+	2. Methoden
 2. RegistrationView( Formular für neue Nutzer)
 3. DashboardView ( Hauptfenster nach dem Login - wenn Admin wird die Benutzerverwaltung geladen)
 4. AdminManagementView (direkte Darstellung der User und ändern der Rechte, löschen der User)

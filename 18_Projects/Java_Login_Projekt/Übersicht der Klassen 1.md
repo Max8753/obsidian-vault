@@ -39,11 +39,16 @@ Hilfsklassen:
 Controller:
 1. LoginController (nimmt LoginView entgegen und nutzt SecurityUtil und setzt die Session)
 	1. **Attribute
-		1. LoginView vieW
+		1. LoginView view
 		2. UserRepository userRepository
-	2. MethodeN
+	2. Methoden
 		1. void login(String username, String password)
 2. RegistrationController (Prüfung und gibt Befehl an UserRepository um den User in der DB zu speichern = Create. Das C von CRUD)
+	1. Attribute
+		1. RegistrationView view
+		2. UserRepository userrepository
+	2. Methoden
+		1. void registerUser(String username, String password, String confirmPassword)
 3. AdminController (Schutz von Löschung des letzten Admins usw.)
 
 Views:

@@ -14,12 +14,16 @@
 		1. registrieren
 		2. anmelden
 3. User
+	1. Attribute
+	2. Methoden
+		1. anfragen
+		2. 
 4. Admin
 	1. Attribute
 	2. Methoden
-		1. Auflistung
-		2. Andern
-		3. Löschen
+		1. auflistung_benutzertabelle
+		2. aendern_rolle
+		3. loeschen_user
 5. Verifikator
 	1. Attribute
 	2. Methoden

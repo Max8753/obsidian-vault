@@ -3,7 +3,7 @@
 		1. ...
 		2. ...
 	2. Methode
-		1. ...
+		1. main
 		2. ...
 2. Benutzer
 	1. Attribute
@@ -15,9 +15,14 @@
 		2. anmelden
 3. User
 4. Admin
+	1. Attribute
+	2. Methoden
+		1. Auflistung
+		2. Andern
+		3. Löschen
 5. Verifikator
 	1. Attribute
 	2. Methoden
 		1. prüfung
 		2. begrüßung
-6. 
+6. Dashboard

@@ -8,7 +8,12 @@ Models & Hauptklassen
 
 2. User (Das User Objekt. Eine Klasse, bekommt die UserRechte zugeteilt)
 	1. Attribute
-		1. id (PRIMARY_)
+		1. id (PRIMARY_KEY - AUTO_INCREMENT)
+		2. username
+		3. pass
+		4. rolle
+	2. Methoden
+		1. getter & setter
 3. UserPool (Wer ist angemeldet? Aus technischer Sicht, keine View)
 4. Database Connection
 5. UserRepository (CRUD)

@@ -23,6 +23,10 @@
 5. Verifikator
 	1. Attribute
 	2. Methoden
-		1. prüfung
-		2. begrüßung
+		1. fehler_prüfung
+		2. verbindung mit SQL(veifikation)
+		3. begrüßung
 6. Dashboard
+	1. Attribute
+	2. Methoden
+		1. darstellung

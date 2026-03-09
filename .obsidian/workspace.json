@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Dashboard/Java_Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Java_Dashboard"
-            }
-          },
-          {
             "id": "7e473220508cfeb3",
             "type": "leaf",
             "state": {
@@ -37,8 +21,7 @@
               "title": "Übersicht der Klassen 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +202,13 @@
   },
   "active": "7e473220508cfeb3",
   "lastOpenFiles": [
-    "18_Projects/Java_Login_Projekt/Übersicht der Klassen.md",
+    "00_Dashboard/Java_Dashboard.md",
     "18_Projects/Java_Login_Projekt/Übersicht der Klassen 1.md",
+    "18_Projects/Java_Login_Projekt/Übersicht der Klassen.md",
     "10_Databases_SQL/README.md",
     "18_Projects/README.md",
     "18_Projects/Java_Login_Projekt",
     "00_Dashboard/Java_Roadmap.md",
-    "00_Dashboard/Java_Dashboard.md",
     "Python File (neu).py",
     "Textdokument (neu).txt",
     "99_Archive/README.md",

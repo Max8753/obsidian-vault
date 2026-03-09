@@ -43,6 +43,10 @@ Views:
 		5. JButton registerButton
 		6. JLabel errorLabel`
 	2. Methoden
+		1. getUsername()
+		2. getPassword()
+		3. showError(String message)
+		4. 
 2. RegistrationView( Formular für neue Nutzer)
 3. DashboardView ( Hauptfenster nach dem Login - wenn Admin wird die Benutzerverwaltung geladen)
 4. AdminManagementView (direkte Darstellung der User und ändern der Rechte, löschen der User)

@@ -21,6 +21,9 @@ Models & Hauptklassen
 
 Hilfsklassen:
 1. SessionContext/UserPool(Welcher User ist mit welcher Rolle angemeldet) (eventuell Löschen)
+	1. Attribute
+		1. USER
+		2. in
 2. SecurityUtil (Hashing, Registrieren und Überprüfen von Login)
 
 Controller:

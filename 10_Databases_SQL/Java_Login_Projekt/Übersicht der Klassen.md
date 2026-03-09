@@ -13,8 +13,6 @@
 	2. Methoden
 		1. registrieren
 		2. anmelden
-		3. anfragen
-		4. antwort_kriegen
 3. User
 	1. Attribute
 	2. Methoden
@@ -34,3 +32,10 @@
 	1. Attribute
 	2. Methoden
 		1. darstellung
+7. CRUD
+	1. Methoden
+		1. kriieren
+		2. lesen
+		3. aendern
+		4. loeschen
+	2. 

@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Dashboard/Java_Roadmap.md",
+                "file": "10_Databases_SQL/Java_Login_Projekt/Übersicht der Klassen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java_Roadmap"
+              "title": "Übersicht der Klassen"
             }
           }
         ],
@@ -217,13 +217,16 @@
   },
   "active": "7e473220508cfeb3",
   "lastOpenFiles": [
-    "00_Dashboard/Java_Dashboard.md",
+    "10_Databases_SQL/README.md",
+    "10_Databases_SQL/Java_Login_Projekt/Übersicht der Klassen.md",
+    "18_Projects/README.md",
+    "10_Databases_SQL/Java_Login_Projekt",
     "00_Dashboard/Java_Roadmap.md",
+    "00_Dashboard/Java_Dashboard.md",
     "Python File (neu).py",
     "Textdokument (neu).txt",
     "99_Archive/README.md",
     "19_Architecture_Diagrams/README.md",
-    "18_Projects/README.md",
     "17_Interview_Questions/README.md",
     "16_Code_Snippets/README.md",
     "15_Performance/README.md",
@@ -231,7 +234,6 @@
     "13_Testing/README.md",
     "12_APIs_Rest/README.md",
     "11_Spring_Framework/README.md",
-    "10_Databases_SQL/README.md",
     "09_System_Design/README.md",
     "08_Design_Patterns/README.md",
     "07_Data_Structures/README.md",
@@ -251,7 +253,6 @@
     "19_Architecture_Diagrams",
     "18_Projects",
     "17_Interview_Questions",
-    "16_Code_Snippets",
     "Без названия.canvas"
   ]
 }

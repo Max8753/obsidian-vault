@@ -1,0 +1,29 @@
+Models & Hauptklassen
+1. Main-Klasse (Startpunkt der Applikation)
+	1. Attribute
+		1. 
+	2. Methoden
+		1. main-methode
+		2. loop, deerdas Programm am leben hält
+
+2. User (Das User Objekt. Eine Klasse, bekommt die UserRechte zugeteilt)
+3. UserPool (Wer ist angemeldet? Aus technischer Sicht, keine View)
+4. Database Connection
+5. UserRepository (CRUD)
+
+Hilfsklassen:
+1. SessionContext/UserPool(Welcher User ist mit welcher Rolle angemeldet) (eventuell Löschen)
+2. SecurityUtil (Hashing, Registrieren und Überprüfen von Login)
+
+Controller:
+1. LoginController (nimmt LoginView entgegen und nutzt SecurityUtil und setzt die Session)
+2. RegistrationController (Prüfung und gibt Befehl an UserRepository um den User in der DB zu speichern = Create. Das C von CRUD)
+3. AdminController (Schutz von Löschung des letzten Admins usw.)
+
+Views:
+1. LoginView (Formulare für Anmelden und Registrieren)
+2. RegistrationView( Formular für neue Nutzer)
+3. DashboardView ( Hauptfenster nach dem Login - wenn Admin wird die Benutzerverwaltung geladen)
+4. AdminManagementView (direkte Darstellung der User und ändern der Rechte, löschen der User)
+5. User TableViewModel (Brauchen wir nur wegen Java Swing. Das JTable-Object kann nicht sagen ob Spalte 1 der Name ist oder Spalte 2 die Rolle. )
+

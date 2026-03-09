@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Databases_SQL/Java_Login_Projekt/Übersicht der Klassen.md",
+                "file": "18_Projects/Java_Login_Projekt/Übersicht der Klassen 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Übersicht der Klassen"
+              "title": "Übersicht der Klassen 1"
             }
           }
         ],
@@ -217,10 +217,11 @@
   },
   "active": "7e473220508cfeb3",
   "lastOpenFiles": [
+    "18_Projects/Java_Login_Projekt/Übersicht der Klassen.md",
+    "18_Projects/Java_Login_Projekt/Übersicht der Klassen 1.md",
     "10_Databases_SQL/README.md",
-    "10_Databases_SQL/Java_Login_Projekt/Übersicht der Klassen.md",
     "18_Projects/README.md",
-    "10_Databases_SQL/Java_Login_Projekt",
+    "18_Projects/Java_Login_Projekt",
     "00_Dashboard/Java_Roadmap.md",
     "00_Dashboard/Java_Dashboard.md",
     "Python File (neu).py",
@@ -245,7 +246,6 @@
     "01_Java_Basics/README 1.md",
     "Template 1/Java_concept.md",
     "Template 2/java_bug.md",
-    "02_OOP/OOP.md",
     "Template 3",
     "Template 2",
     "Template 1",

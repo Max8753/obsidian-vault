@@ -1,12 +1,14 @@
 Models & Hauptklassen
 1. Main-Klasse (Startpunkt der Applikation)
 	1. Attribute
-		1. 
+		1. appStart = true;
 	2. Methoden
 		1. main-methode
-		2. loop, deerdas Programm am leben hält
+		2. appStart-methode(while (appStart) {})
 
 2. User (Das User Objekt. Eine Klasse, bekommt die UserRechte zugeteilt)
+	1. Attribute
+		1. id (PRIMARY_)
 3. UserPool (Wer ist angemeldet? Aus technischer Sicht, keine View)
 4. Database Connection
 5. UserRepository (CRUD)

@@ -36,7 +36,12 @@ Controller:
 Views:
 1. LoginView (Formulare für Anmelden und Registrieren)
 	1. Attribute
-		1. JTextField
+		1. JFrame frame
+		2. JTextField usernameField
+		3. JPasswordField passwordField
+		4. JButton loginButton
+		5. JButton registerButton
+		6. JLabel errorLabel`
 	2. Methoden
 2. RegistrationView( Formular für neue Nutzer)
 3. DashboardView ( Hauptfenster nach dem Login - wenn Admin wird die Benutzerverwaltung geladen)

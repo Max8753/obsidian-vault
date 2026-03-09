@@ -31,9 +31,18 @@ Hilfsklassen:
 		4. public boolean isAdmin()
 		5. public void logout()`
 2. SecurityUtil (Hashing, Registrieren und Überprüfen von Login)
+	1. Methoden
+		1. String hashPassword(String password)
+		2. boolean login(String username, String password)
+		3. boolean validateRegistration(String username, String password, String confirmPassword)
 
 Controller:
 1. LoginController (nimmt LoginView entgegen und nutzt SecurityUtil und setzt die Session)
+	1. **Attribute
+		1. LoginView vieW
+		2. UserRepository userRepository
+	2. MethodeN
+		1. void login(String username, String password)
 2. RegistrationController (Prüfung und gibt Befehl an UserRepository um den User in der DB zu speichern = Create. Das C von CRUD)
 3. AdminController (Schutz von Löschung des letzten Admins usw.)
 

@@ -22,10 +22,14 @@ Models & Hauptklassen
 Hilfsklassen:
 1. SessionContext/UserPool(Welcher User ist mit welcher Rolle angemeldet) (eventuell Löschen)
 	1. Attribute
-		1. user
-		2. instance
+		1. private User user
+		2. private static instance
 	2. Methoden
-		1. pruefen_ob_admin
+		1. public static SessionContext getInstance()
+		2. public void setUser(User user)
+		3. public User getUser()
+		4. public boolean isAdmin()
+		5. public void logout()`
 2. SecurityUtil (Hashing, Registrieren und Überprüfen von Login)
 
 Controller:

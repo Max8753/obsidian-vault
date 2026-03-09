@@ -50,9 +50,15 @@ Controller:
 	2. Methoden
 		1. void registerUser(String username, String password, String confirmPassword)
 3. AdminController (Schutz von Löschung des letzten Admins usw.)
-
+	1. Attribute
+		1. AdminManagementView view
+		2. UserRepository userRepository`
+	2. Methoden
+		1. void deleteUser(int userId)
+		2. void changeUserRole(int userId, String role)
+		3. List<User> getAllUsers()void changeUserRole(int userId, String role)
 Views:
-1. LoginView (Formulare für Anmelden und Registrieren)
+5. LoginView (Formulare für Anmelden und Registrieren)
 	1. Attribute
 		1. JFrame frame
 		2. JTextField usernameField
@@ -65,8 +71,8 @@ Views:
 		2. getPassword()
 		3. showError(String message)
 		4. 
-2. RegistrationView( Formular für neue Nutzer)
-3. DashboardView ( Hauptfenster nach dem Login - wenn Admin wird die Benutzerverwaltung geladen)
-4. AdminManagementView (direkte Darstellung der User und ändern der Rechte, löschen der User)
-5. User TableViewModel (Brauchen wir nur wegen Java Swing. Das JTable-Object kann nicht sagen ob Spalte 1 der Name ist oder Spalte 2 die Rolle. )
+6. RegistrationView( Formular für neue Nutzer)
+7. DashboardView ( Hauptfenster nach dem Login - wenn Admin wird die Benutzerverwaltung geladen)
+8. AdminManagementView (direkte Darstellung der User und ändern der Rechte, löschen der User)
+9. User TableViewModel (Brauchen wir nur wegen Java Swing. Das JTable-Object kann nicht sagen ob Spalte 1 der Name ist oder Spalte 2 die Rolle. )
 

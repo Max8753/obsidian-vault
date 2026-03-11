@@ -8,17 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df6c6db4ff7c119e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18_Projects/Java_Login_Projekt/Übersicht der Klassen.md",
+                "file": "00_Dashboard/Java_Dashboard.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Übersicht der Klassen"
+              "title": "Java_Dashboard"
             }
           }
         ]
@@ -199,10 +201,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "df6c6db4ff7c119e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "00_Dashboard/Java_Dashboard.md",
     "18_Projects/Java_Login_Projekt/Übersicht der Klassen.md",
+    "00_Dashboard/Java_Dashboard.md",
     "18_Projects/Java_Login_Projekt/Übersicht der Klassen 1.md",
     "Без названия.md",
     "10_Databases_SQL/README.md",

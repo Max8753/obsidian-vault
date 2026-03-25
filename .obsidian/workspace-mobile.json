@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f9a39180287b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a9e9816fd91ee85",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb2c999ed57ec164",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "20fe10d5df7b6955",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTimeReverse",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "dc1c86435b4a6111",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#concept",
+            "matchingCase": false,
+            "explainSearch": true,
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "53fe7d13587b7512",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "10fd5db6e3baeda0",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Все свойства"
+        }
+      },
+      {
+        "id": "7de35f7c1afcc0d6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "441e88e2e3f26640",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c2e42a2c1d7b8ff1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00_Dashboard/Java_Dashboard.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "068ad632f68c9af6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "00_Dashboard/Java_Dashboard.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "71cbd9f523f5201f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "00_Dashboard/Java_Dashboard.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      },
+      {
+        "id": "9d9e76bd2aa11f32",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6a9e9816fd91ee85",
+  "lastOpenFiles": [
+    "00_Dashboard/Java_Dashboard.md",
+    "01_Java_Basics/Compilation.md",
+    "01_Java_Basics/Bytecode.md",
+    "Template 1/java_concept.md",
+    "01_Java_Basics/JDK.md",
+    "Без названия.md",
+    "Без названия",
+    "01_Java_Basics/JVM.md",
+    "00_Dashboard/Java_Roadmap.md",
+    "07_Data_Structures/Heap.md",
+    "java_snippet.md",
+    "Java History.md",
+    "Dateienformat/XML.md",
+    "Encapsulation.md",
+    "01_Java_Basics/README.md",
+    "01_Java_Basics/JRE.md",
+    "01_Java_Basics/Java History.md",
+    "Template 2/().md",
+    "Dateienformat/JSON.md",
+    "Template 1/Drawing 2026-03-24 19.35.00.excalidraw.md",
+    "Template 2/java_bug.md",
+    "Dateienformat/HTTP.md"
+  ]
+}
